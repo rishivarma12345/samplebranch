@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello Git new branch")
+	fmt.Println("Hello Git neww branch")
 }
