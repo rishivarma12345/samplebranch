@@ -8,7 +8,7 @@ stages:
   displayName: Code validation
   jobs:
   - job: samplebranch_validation
-    displayName: CIEUGWInterface Validation
+    displayName: Code Validation
   
     pool:
      vmImage: ubuntu-latest
